@@ -1,0 +1,19 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.0",
+  "description": "Say hello to mars\u001b[D\u001b[D\u001b[M\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahad1192/hello-mars.git"
+  },
+  "author": "Fahad Munir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fahad1192/hello-mars/issues"
+  },
+  "homepage": "https://github.com/Fahad1192/hello-mars#readme"
+}
